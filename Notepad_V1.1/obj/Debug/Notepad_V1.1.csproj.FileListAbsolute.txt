@@ -1,0 +1,23 @@
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\bin\Debug\Notepad_V1.1.exe.config
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\bin\Debug\Notepad_V1.1.exe
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\bin\Debug\Notepad_V1.1.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1._1.Form1.resources
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1._1.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.csproj.GenerateResource.Cache
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.exe
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1._1.Form2.resources
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\bin\Debug\Notepad_V1.1.exe.config
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.exe
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.pdb
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\bin\Debug\Notepad_V1.1.exe
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\bin\Debug\Notepad_V1.1.pdb
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.csprojResolveAssemblyReference.cache
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1._1.Form1.resources
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1._1.Form2.resources
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1._1.Properties.Resources.resources
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_V1.1\Notepad_V1.1\obj\Debug\Notepad_V1.1.csproj.GenerateResource.Cache
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_++\Notepad_V1.1\bin\Debug\Notepad_V1.1.exe.config
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_++\Notepad_V1.1\obj\Debug\Notepad_V1.1.exe
+C:\Users\Evheniy\Google Диск\ШАГ\домашка\WinForms\Notepad_++\Notepad_V1.1\obj\Debug\Notepad_V1.1.pdb
